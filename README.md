@@ -1,7 +1,7 @@
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-</br>
+ <div style="float: left;">
 
-<p align="left">
-	<img src=https://github-readme-stats.vercel.app/api?username=maliaydemir&show_icons=true alt=AliOzzkan />
-</p>
+        <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"/>
+        
+    </div>
+	<img src="https://github-readme-stats.vercel.app/api?username=maliaydemir&show_icons=true" alt="maliaydemir" />
